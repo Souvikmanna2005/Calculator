@@ -24,3 +24,6 @@ CSS3 for layout, glass effects, transitions, and animations
 
 JavaScript (ES6) for dynamic button functionality and expression evaluation
 
+![Screenshot 2025-07-07 220120](https://github.com/user-attachments/assets/f9235d14-a576-4c0f-bfa0-e961f5decb4c)
+
+
